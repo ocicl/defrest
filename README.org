@@ -1,0 +1,10 @@
+* defrest
+
+An easy Common Lisp REST/ajax service definer for hunchentoot
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bonkzwonil/defrest.git   |
+| commit  | 20824af  |
+| systems | defrest |
+|---------+-------------------------------------------|
+
